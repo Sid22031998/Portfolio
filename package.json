@@ -10,7 +10,11 @@
   },
   "devDependencies": {},
   "scripts": {
+  	"start": "node views/index.ejs",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.10.0"
   },
   "author": "",
   "license": "ISC"
